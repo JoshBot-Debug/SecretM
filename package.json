@@ -1,0 +1,23 @@
+{
+  "name": "secretm",
+  "version": "1.0.0",
+  "description": "Can I keep your secret?",
+  "main": "/bin/secretm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hash",
+    "protect",
+    "encrypt",
+    "secret",
+    "serialize"
+  ],
+  "author": "Joshua Joseph Myers",
+  "license": "ISC",
+  "dependencies": {
+    "arg": "^5.0.0",
+    "esm": "^3.2.25",
+    "inquirer": "^7.3.3"
+  }
+}
